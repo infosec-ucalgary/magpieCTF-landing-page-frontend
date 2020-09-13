@@ -1,7 +1,7 @@
-# UCalgary InfoSec Club Web App
+# magpieCTF landing page
 - - -
 ## Goal
-To make a simple web app to help manage club operations, such as: member management, resources, annoucement management and calendar, information on the club, executive list, etc...
+The countdown landing page for magpieCTF
 - - -
 ## Built with Vue.JS
 I've decided to use VueJS to build this web app. On top of Vue, I chose [TailwindCSS](https://tailwindcss.com) as my CSS framework of choice.
