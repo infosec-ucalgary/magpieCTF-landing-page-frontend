@@ -1,8 +1,9 @@
 <template>
   <section id="home-outer">
     <header class="text-center pb-12">
-      <video class="mx-auto w-2/3" autoplay loop>
+      <video class="mx-auto w-2/3" autoplay loop muted>
         <source src="@/assets/magpie-ctf-logo.webm" type="video/webm">
+        <source src="@/assets/magpie-ctf-logo.mp4" type="video/mp4">
       </video>
     </header>
     <div class="home bg-black">
