@@ -634,6 +634,35 @@ video {
   background-color: rgba(61, 100, 95, var(--bg-opacity));
 }
 
+.neon-red {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e6003a, 0 0 40px #e6003a, 0 0 50px #e6003a, 0 0 60px #e6003a;
+}
+
+.neon-blue {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #003de6, 0 0 40px #003de6, 0 0 50px #003de6, 0 0 60px #003de6;
+}
+
+.neon-green {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00e632, 0 0 40px #00e632, 0 0 50px #00e632, 0 0 60px #00e632;
+}
+
+.neon-yellow {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #d7e600, 0 0 40px #d7e600, 0 0 50px #d7e600, 0 0 60px #d7e600;
+}
+
+.neon-border {
+  -webkit-box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fa047f, 0 0 40px #fa047f, 0 0 50px #fa047f;
+          box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fa047f, 0 0 40px #fa047f, 0 0 50px #fa047f;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Open%20Sans');
 
 @import url('https://fonts.googleapis.com/css2?family=Open%20Sans:wght@300');
@@ -25087,7 +25116,7 @@ video {
     background-color: currentColor;
   }
 
-  .sm\: {
+  .sm\:bg-black {
     --bg-opacity: 1;
     background-color: #000;
     background-color: rgba(0, 0, 0, var(--bg-opacity));
