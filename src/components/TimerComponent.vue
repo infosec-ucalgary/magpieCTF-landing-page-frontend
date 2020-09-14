@@ -1,6 +1,6 @@
 <template>
 
-  <VueCountdown :time="new Date('Feb 19, 2021 00:00:00').getTime() - new Date().getTime()">
+  <VueCountdown :time="new Date('Feb 19, 2021 00:00:00 GMT-0700').getTime() - new Date().getTime()">
       <template v-slot="props">
         <div class="font-semibold text-center text-6xl text-white">
           <div class="inline-block mx-10">
