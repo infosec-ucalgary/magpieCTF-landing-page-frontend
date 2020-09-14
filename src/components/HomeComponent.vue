@@ -11,9 +11,9 @@
         <section class="w-full py-12">
           <TimerComponent />
         </section>
-        <div class="w-2/3 mx-auto my-16">
-          <p class="text-center font-display text-4xl text-white">Join the CTF Discord</p>
-          <a href="https://discord.gg/wVwv5Pw"><img class="mx-auto" src="@/assets/Discord-Logo+Wordmark-Color.png" style="width: 40%" /></a>
+        <div class="w-2/3 mx-auto my-16 border-4 rounded-lg neon-border">
+          <p class="text-center font-display text-5xl text-white">Join the CTF Discord</p>
+          <a href="https://discord.gg/wVwv5Pw"><img class="mx-auto" src="@/assets/Discord-Logo+Wordmark-Color.png" style="width: 45%" /></a>
         </div>
       </div>
     </div>
