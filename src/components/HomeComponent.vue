@@ -10,6 +10,11 @@
       <div class="flex flex-col">
         <section class="w-full">
           <TimerComponent />
+          <p class="font-semibold text-center text-6xl my-32">
+            <span class="neon-red">19/02/2021 4PM MST</span>
+            <span class="neon-blue"> - </span>
+            <span class="neon-green">21/02/2021 4PM MST</span>
+          </p>
         </section>
         <div class="w-2/3 mx-auto my-48 border-4 rounded-lg neon-border">
           <p class="text-center font-display text-5xl text-white">Join the CTF Discord</p>
