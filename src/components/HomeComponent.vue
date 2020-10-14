@@ -22,6 +22,12 @@
           <a href="https://discord.gg/wVwv5Pw"><img class="mx-auto" src="@/assets/Discord-Logo+Wordmark-Color.png" style="width: 45%" /></a>
         </div>
         -->
+        <div class="w-2/3 mx-auto my-16 pb-6 pt-2 border-4 rounded-lg neon-border">
+          <p class="text-center font-display text-5xl text-white">Sponsored By</p>
+          <div class="my-6 mx-6">
+            <img src="@/assets/HTB-Logo-RGB_1024.svg" style="min-width: 200px; max-width: 500px;" class="mx-auto"/>
+          </div>
+        </div>
       </div>
     </div>
   </section>
