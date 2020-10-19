@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>{{ ctf_name() }}</title>
+    <title>{{ Configs.ctf_name }}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="{{ request.script_root }}/themes/{{ ctf_theme() }}/static/img/favicon.ico" type="image/x-icon">
@@ -34,7 +34,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a href="{{ request.script_root }}/" class="navbar-brand">{{ ctf_name() }}</a>
+              <a href="{{ request.script_root }}/" class="navbar-brand">{{ Configs.ctf_name }}</a>
             </div>
             <div class="navbar-collapse collapse" aria-expanded="false" style="height: 0px">
               <ul class="nav navbar-nav">
