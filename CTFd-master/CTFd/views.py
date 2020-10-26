@@ -143,9 +143,9 @@ def setup():
 
             # Index page
 
-            index = """<div class="row">
+            index = <div class="row">
     <div class="col-md-6 offset-md-3">
-        <img class="w-100 mx-auto d-block" style="max-width: 500px;padding: 50px;padding-top: 14vh;" src="themes/core/static/img/logo.png" />
+        <img class="w-100 mx-auto d-block" style="max-width: 500px;padding: 50px;padding-top: 14vh;" src="themes/core/static/img/logo.mp4" />
         <h3 class="text-center">
             <p>A cool CTF platform from <a href="https://ctfd.io">ctfd.io</a></p>
             <p>Follow us on social media:</p>
@@ -158,7 +158,7 @@ def setup():
             <a href="admin">Click here</a> to login and setup your CTF
         </h4>
     </div>
-</div>"""
+</div>
 
             page = Pages(title=None, route="index", content=index, draft=False)
 
