@@ -16,6 +16,11 @@
             <span class="neon-green">21/02/2021 4PM MST</span>
           </p>
         </section>
+        <div class="w-auto p-4 mx-auto bg-blue-700 border-4 border-white rounded-lg neon-border-blue mb-20 hover:bg-blue-600">
+        <a href="https://2021.magpiectf.ca">
+          <p class="font-display text-5xl text-white text-center font-bold">Go to CTFd</p>
+        </a>
+        </div>
         <!--
         <div class="w-2/3 mx-auto my-48 border-4 rounded-lg neon-border">
           <p class="text-center font-display text-5xl text-white">Join the CTF Discord</p>

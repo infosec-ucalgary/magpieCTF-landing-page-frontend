@@ -663,6 +663,11 @@ video {
           box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fa047f, 0 0 40px #fa047f, 0 0 50px #fa047f;
 }
 
+.neon-border-blue {
+  -webkit-box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #003de6, 0 0 40px #003de6, 0 0 50px #003de6;
+          box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #003de6, 0 0 40px #003de6, 0 0 50px #003de6;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Open%20Sans');
 
 @import url('https://fonts.googleapis.com/css2?family=Open%20Sans:wght@300');
