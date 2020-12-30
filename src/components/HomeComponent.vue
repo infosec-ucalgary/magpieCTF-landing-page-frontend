@@ -16,11 +16,11 @@
             <span class="neon-green">21/02/2021 4PM MST</span>
           </p>
         </section>
-        <a href="https://2021.magpiectf.ca" class="w-auto p-4 mx-auto bg-blue-700 border-4 border-white rounded-lg neon-border-blue mb-20 hover:bg-blue-600">
+        <a href="https://2021.magpiectf.ca" class="w-auto p-4 mx-auto border-4 border-white rounded-lg neon-border-blue mb-20 hover:bg-gray-800">
           <p class="font-display text-5xl text-white text-center font-bold">Go to CTFd</p>
         </a>
-        <a target=”_blank” href="https://www.eventbrite.ca/e/magpiectf-tickets-128583228899" class="w-auto p-4 mx-auto border-4 border-white rounded-lg neon-border-blue hover:bg-gray-800">
-          <p class="font-display text-center text-2xl text-white font-bold">REGISTER NOW</p>
+        <a target=”_blank” href="https://www.eventbrite.ca/e/magpiectf-tickets-128583228899" class="w-auto p-4 mx-auto mb-8 border-4 border-white rounded-lg neon-border-blue hover:bg-gray-800">
+          <p class="font-display text-center text-3xl text-white font-bold">REGISTER NOW</p>
         </a>
         <!--
         <div class="w-2/3 mx-auto my-48 border-4 rounded-lg neon-border">
