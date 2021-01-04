@@ -5,7 +5,7 @@
       <div>
         <div class="mb-5">
           <p class="text-3xl neon-blue text-left mb-4">What is it?</p>
-          <p class="text-xl text-white mb-2">If you have no idea what a CTF is, <a href="https://www.youtube.com/watch?v=8ev9ZX9J45A" target="_blank"><u>this video</u></a> should help. magpieCTF is a jeopardy style, team based, totally online CTF taking place over two days with thousands of dollars in cash prizes and subscriptions. This is a beginner to intermediate level CTF, so if you're brand new to CTFs/cybersecurity/hacking this is your chance to get started!</p>
+          <p class="text-xl text-white mb-2">If you have no idea what a CTF is, <a class="text-pink-600" href="https://www.youtube.com/watch?v=8ev9ZX9J45A" target="_blank"><u>this video</u></a> should help. magpieCTF is a jeopardy style, team based, totally online CTF taking place over two days with thousands of dollars in cash prizes and subscriptions. This is a beginner to intermediate level CTF, so if you're brand new to CTFs/cybersecurity/hacking this is your chance to get started!</p>
           <p class="text-xl text-white">Our first annual CTF will be 80s themed (culture, movies, music, technology). Calgary tech companies are watching (some are participating!) and they will have space online to talk to you during the competition as your test your skills and show them what you can do!</p>
         </div>
         <div class="mb-5">
@@ -26,7 +26,7 @@
         </div>
         <div class="mb-5">
           <p class="text-3xl neon-green text-left mb-4">Where do I sign up?</p>
-          <p class="text-xl text-white">Start by signing up for a ticket here on our <a href="https://www.eventbrite.ca/e/magpiectf-tickets-128583228899" target="_blank"><u>Eventbrite page</u></a>. We'll email you back with confirmation of your registration and details for your login on our CTF site. Once there, you can make your team. The CTFd page for the competition is <a href="https://2021.magpiectf.ca/" target="_blank"><u>here</u></a>.</p>
+          <p class="text-xl text-white">Start by signing up for a ticket here on our <a class="text-pink-600" href="https://www.eventbrite.ca/e/magpiectf-tickets-128583228899" target="_blank"><u>Eventbrite page</u></a>. We'll email you back with confirmation of your registration and details for your login on our CTF site. Once there, you can make your team. The CTFd page for the competition is <a class="text-pink-600" href="https://2021.magpiectf.ca/" target="_blank"><u>here</u></a>.</p>
         </div>
         <div class="mb-5">
           <p class="text-3xl neon-yellow text-left mb-4">What if I'm not a student?</p>
@@ -34,7 +34,7 @@
         </div>
         <div class="mb-5">
           <p class="text-3xl neon-red text-left mb-4">What if I still have questions?</p>
-          <p class="text-xl text-white">The best place to ask is the <a href="https://discord.gg/QByARV237Q" target="_blank"><u>magpieCTF Discord server</u></a>. You can private message us there, or <a href="mailto:infosec.ucalgary@gmail.com" target="_blank"><u>email us</u></a>.</p>
+          <p class="text-xl text-white">The best place to ask is the <a class="text-pink-600" href="https://discord.gg/QByARV237Q" target="_blank"><u>magpieCTF Discord server</u></a>. You can private message us there, or <a class="text-pink-600" href="mailto:infosec.ucalgary@gmail.com" target="_blank"><u>email us</u></a>.</p>
         </div>
       </div>
     </div>
