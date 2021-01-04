@@ -34,17 +34,20 @@
             <img src="@/assets/HTB-Logo-RGB_1024.svg" style="min-width: 200px; max-width: 500px;" class="mx-auto"/>
           </div>
         </div>
+        <AboutComponent />
       </div>
     </div>
   </section>
 </template>
 <script>
 import TimerComponent from '@/components/TimerComponent.vue'
+import AboutComponent from '@/components/AboutComponent.vue'
 
 export default {
   name: 'HomeComponent',
   components: {
-    TimerComponent
+    TimerComponent,
+    AboutComponent
   },
   discordSrc: '@/assets/Discord-Logo+Wordmark-Color.png'
 }
