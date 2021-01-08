@@ -10,7 +10,7 @@
         </div>
         <div class="mb-5">
           <p class="text-3xl neon-green text-left mb-4">When is it?</p>
-          <p class="text-xl text-white">magpieCTF is a two day event starting <strong>February 19th at 4pm and ending February 21st at 4pm.</strong></p>
+          <p class="text-xl text-white">magpieCTF is a two day event starting <strong>February 19th at 4pm MST and ending February 21st at 4pm MST.</strong></p>
         </div>
         <div class="mb-5">
           <p class="text-3xl neon-yellow text-left mb-4">What does it cost?</p>
