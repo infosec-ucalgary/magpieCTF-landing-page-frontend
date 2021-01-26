@@ -29,9 +29,12 @@
         </div>
         -->
         <div class="w-2/3 mx-auto my-16 pb-6 pt-2 border-4 rounded-lg neon-border">
-          <p class="text-center font-display text-5xl text-white">Sponsored By</p>
+          <p class="text-center font-display text-5xl text-white mb-16">Sponsored By</p>
           <div class="my-6 mx-6">
             <img src="@/assets/HTB-Logo-RGB_1024.svg" style="min-width: 200px; max-width: 500px;" class="mx-auto"/>
+          </div>
+          <div class="my-6 mx-6">
+            <img src="@/assets/HSBC_MASTERBRAND_BANK_RGB_MONO_REV.svg" style="min-width: 200px; max-width: 500px;" class="mx-auto"/>
           </div>
         </div>
         <AboutComponent />
