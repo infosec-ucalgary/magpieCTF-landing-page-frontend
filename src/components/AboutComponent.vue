@@ -30,7 +30,7 @@
         </div>
         <div class="mb-5">
           <p class="text-3xl neon-yellow text-left mb-4">What if I'm not a student?</p>
-          <p class="text-xl text-white">If cybersecurity if your hobby, career, or your business and you want to get involved please drop us a line and let us know! We're hoping to build the community and give students the chance to interact with you. This is your opportunity to meet with future talent, connect, and recruit.</p>
+          <p class="text-xl text-white">If cybersecurity is your hobby, career, or your business and you want to get involved please drop us a line and let us know! We're hoping to build the community and give students the chance to interact with you. This is your opportunity to meet with future talent, connect, and recruit.</p>
         </div>
         <div class="mb-5">
           <p class="text-3xl neon-red text-left mb-4">What if I still have questions?</p>
