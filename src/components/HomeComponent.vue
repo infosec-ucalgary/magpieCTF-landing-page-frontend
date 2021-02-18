@@ -40,7 +40,7 @@
             <img src="@/assets/cisco-logo.png" style="max-height:120px; " class="mx-auto"/>
           </div>
           <div class="mb-10 my-24 mx-6">
-            <img src="@/assets/securednet.png" style="min-width: 200px;" class="mx-auto"/>
+            <img src="@/assets/SecuredNet-black.svg" style="min-width: 200px;" class="mx-auto"/>
           </div>
         </div>
         <AboutComponent />
