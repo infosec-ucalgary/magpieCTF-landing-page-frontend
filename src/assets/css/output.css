@@ -658,6 +658,12 @@ video {
   text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #d7e600, 0 0 40px #d7e600, 0 0 50px #d7e600, 0 0 60px #d7e600;
 }
 
+.neon-grey-1 {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #36454F, 0 0 40px #36454F, 0 0 50px #36454F, 0 0 60px #36454F;
+}
+
 .neon-border {
   -webkit-box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fa047f, 0 0 40px #fa047f, 0 0 50px #fa047f;
           box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fa047f, 0 0 40px #fa047f, 0 0 50px #fa047f;
@@ -666,6 +672,11 @@ video {
 .neon-border-blue {
   -webkit-box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #003de6, 0 0 40px #003de6, 0 0 50px #003de6;
           box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #003de6, 0 0 40px #003de6, 0 0 50px #003de6;
+}
+
+.neon-border-white {
+  -webkit-box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff;
+          box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open%20Sans');
