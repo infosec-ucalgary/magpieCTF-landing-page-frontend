@@ -1,6 +1,6 @@
 <template>
   <!-- <div class="_position-relative _width-100" id="outer-container"> -->
-  <div class="relative w-full bg-black" id="outer-container">
+  <div class="relative w-full bg-blueprint-color" id="outer-container">
 
     <!-- PAGE RENDER -->
     <router-view />

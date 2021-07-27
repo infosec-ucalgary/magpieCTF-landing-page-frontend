@@ -6,19 +6,19 @@
         <source src="@/assets/ctf-logo-v3.mp4" type="video/mp4">
       </video>
     </header>
-    <div class="home bg-black">
+    <div class="home bg-blueprint-color">
       <div class="flex flex-col">
         <section class="w-full">
           <TimerComponent />
-          <p class="font-semibold text-center text-3xl sm:text-6xl my-32">
-            <span class="neon-grey-1">25/02/2022 4PM MST</span>
-            <span class="neon-blue"> - </span>
-            <span class="neon-grey-1">27/02/2022 4PM MST</span>
+          <p class="font-semibold text-center text-3xl sm:text-6xl my-16">
+            <span class="neon-grey-2">25/02/2022 4PM MST</span>
+            <span class="neon-grey-2"> - </span>
+            <span class="neon-grey-2">27/02/2022 4PM MST</span>
           </p>
         </section>
         <section class="w-full">
-          <p class="font-semibold text-center text-3xl sm:text-6xl mb-32">
-            <span class="neon-grey-1">DETAILS COMING SOON</span>
+          <p class="font-semibold text-center text-3xl sm:text-6xl mb-16">
+            <span class="neon-grey-2">DETAILS COMING SOON</span>
           </p>
         </section>
         <!-- REGISTRATION + CTFD LINKS
