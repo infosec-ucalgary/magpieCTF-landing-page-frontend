@@ -685,9 +685,9 @@ video {
 }
 
 .neon-red-2 {
-  color: #ad363b;
+  color: #d6101a;
   text-align: center;
-  text-shadow: 0 0 2.5px #59002a, 0 0 5px #59002a, 0 0 7.5px #36454F, 0 0 10px #36454F, 0 0 12.5px #36454F, 0 0 15px #36454F;
+  text-shadow: 0 0 1.25px #59002a, 0 0 2.5px #59002a, 0 0 3.75px #2b3740, 0 0 5px #2b3740, 0 0 6.25px #2b3740, 0 0 7.5px #2b3740;
 }
 
 .blue-link {
