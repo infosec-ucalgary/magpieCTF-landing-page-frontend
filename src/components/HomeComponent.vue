@@ -2,15 +2,16 @@
   <section id="home-outer">
     <header class="text-center pb-12">
       <video class="mx-auto w-2/3" autoplay loop muted>
-        <source src="@/assets/ctf-logo-v3.webm" type="video/webm">
-        <source src="@/assets/ctf-logo-v3.mp4" type="video/mp4">
+        <source src="@/assets/2022-main-logo.webm" type="video/webm">
+        <!-- <source src="@/assets/ctf-logo-v3.webm" type="video/webm"> -->
+        <!-- <source src="@/assets/ctf-logo-v3.mp4" type="video/mp4"> -->
       </video>
     </header>
     <div class="home bg-blueprint-color">
       <div class="flex flex-col">
         <section class="w-full">
           <TimerComponent />
-          <p class="font-semibold text-center text-3xl sm:text-6xl my-16">
+          <p class="font-semibold text-center text-3xl sm:text-5xl my-16">
             <span class="neon-grey-2">25/02/2022 4PM MST</span>
             <span class="neon-grey-2"> - </span>
             <span class="neon-grey-2">27/02/2022 4PM MST</span>

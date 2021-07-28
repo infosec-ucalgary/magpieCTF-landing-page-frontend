@@ -637,7 +637,7 @@ video {
 }
 
 .bg-green {
-  -bg-opacity: 1;
+  --bg-opacity: 1;
   background-color: #3D645F;
   background-color: rgba(61, 100, 95, var(--bg-opacity));
 }
