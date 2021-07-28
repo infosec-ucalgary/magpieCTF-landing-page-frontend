@@ -7,7 +7,7 @@
         <!-- <source src="@/assets/ctf-logo-v3.mp4" type="video/mp4"> -->
       </video>
     </header>
-    <div class="home bg-blueprint-color">
+    <div class="home">
       <div class="flex flex-col">
         <section class="w-full">
           <TimerComponent />

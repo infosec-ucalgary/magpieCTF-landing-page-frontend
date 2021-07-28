@@ -1,6 +1,6 @@
 <template>
   <!-- <div class="_position-relative _width-100" id="outer-container"> -->
-  <div class="relative w-full bg-blueprint-color" id="outer-container">
+  <div class="relative w-full bg-blueprint-color bg-fixed" :style="{backgroundImage:`url(${bgImage})`}" id="outer-container">
 
     <!-- PAGE RENDER -->
     <router-view />
@@ -41,7 +41,8 @@ export default {
   },
   data () {
     return {
-      visible: true
+      visible: true,
+      bgImage: require('./assets/grid-background-v1.jpg')
     }
   }
 }
