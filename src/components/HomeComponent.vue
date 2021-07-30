@@ -3,6 +3,7 @@
     <header class="text-center pb-12">
       <video class="mx-auto w-2/3" autoplay loop muted>
         <source src="@/assets/2022-logo-v3.webm" type="video/webm">
+        <source src="@/assets/2022-logo-v3.mp4" type="video/mp4">
         <!-- <source src="@/assets/ctf-logo-v3.webm" type="video/webm"> -->
         <!-- <source src="@/assets/ctf-logo-v3.mp4" type="video/mp4"> -->
       </video>
