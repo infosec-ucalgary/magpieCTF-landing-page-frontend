@@ -22,20 +22,20 @@
           <p class="text-xl text-white">First place is <strong>$1024</strong>, second is <strong>$512</strong>, third is <strong>$256</strong>. There are also subscriptions to services and swag in the mix!</p>
         </div>
         -->
-        <div class="mb-5">
+        <!-- <div class="mb-5">
           <p class="text-3xl neon-light text-left mb-4">What else do I need to know?</p>
-          <p class="text-xl text-white">Prizes are limited to high school and university students in Canada. CTF is a team sport, and the maximum team size is 5. You don't have to be on a team but it REALLY helps and is more fun. <!--We've limited the number of tickets so sign up as soon as you can. You register as an individual and then created/join a team later.--></p>
-        </div>
+          <p class="text-xl text-white">Prizes are limited to high school and university students in Canada. CTF is a team sport, and the maximum team size is 5. You don't have to be on a team but it REALLY helps and is more fun. </p>
+        </div> -->
         <!--
         <div class="mb-5">
           <p class="text-3xl neon-green text-left mb-4">Where do I sign up?</p>
           <p class="text-xl text-white">Start by signing up for a ticket here on our <a class="text-pink-600" href="https://www.eventbrite.ca/e/magpiectf-tickets-128583228899" target="_blank"><u>Eventbrite page</u></a>. We'll email you back with confirmation of your registration and details for your login on our CTF site. Once there, you can make your team. The CTFd page for the competition is <a class="text-pink-600" href="https://2021.magpiectf.ca/" target="_blank"><u>here</u></a>.</p>
         </div>
         -->
-        <div class="mb-5">
+        <!-- <div class="mb-5">
           <p class="text-3xl neon-light text-left mb-4">What if I'm not a student?</p>
           <p class="text-xl text-white">If cybersecurity is your hobby, career, or your business and you want to get involved please drop us a line and let us know! We're hoping to build the community and give students the chance to interact with you. This is your opportunity to meet with future talent, connect, and recruit.</p>
-        </div>
+        </div> -->
         <div class="mb-5">
           <p class="text-3xl neon-light text-left mb-4">What if I still have questions?</p>
           <p class="text-xl text-white">The best place to ask is the <a class="blue-link" href="https://discord.gg/QByARV237Q" target="_blank"><u>magpieCTF Discord server</u></a>. You can private message us there, or <a class="blue-link" href="mailto:infosec.ucalgary@gmail.com" target="_blank"><u>email us</u></a>.</p>
