@@ -18,11 +18,11 @@
             <span class="neon-grey-2">27/02/2022 4PM MST</span>
           </p>
         </section>
-        <section class="w-full">
+        <!-- <section class="w-full">
           <p class="font-semibold text-center text-3xl sm:text-6xl mb-16">
             <span class="neon-grey-2">DETAILS COMING SOON</span>
           </p>
-        </section>
+        </section> -->
         <!-- REGISTRATION + CTFD LINKS
         <a href="https://2021.magpiectf.ca" class="w-auto p-4 mx-auto border-4 border-white rounded-lg neon-border-blue mb-20 hover:bg-gray-800">
           <p class="font-display text-5xl text-white text-center font-bold">Go to CTFd</p>

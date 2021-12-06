@@ -60,6 +60,12 @@
   text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #d7e600, 0 0 40px #d7e600, 0 0 50px #d7e600, 0 0 60px #d7e600;
 }
 
+.neon-brown {
+  color: #9F602D;
+  text-align: center;
+  text-shadow: 0 0 1.25px #351D1D, 0 0 2.5px #351D1D, 0 0 3.75px #362B2B, 0 0 5px #362B2B, 0 0 6.25px #362B2B, 0 0 7.5px #362B2B;
+}
+
 .neon-border {
   box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fa047f, 0 0 40px #fa047f, 0 0 50px #fa047f;
 }
