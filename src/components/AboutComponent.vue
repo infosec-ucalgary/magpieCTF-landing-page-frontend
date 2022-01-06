@@ -51,7 +51,7 @@
       </div>
       <div class="mx-auto my-16 pb-6 pt-2">
         <p class="text-center font-display text-3xl sm:text-5xl text-white mb-8">Sponsored By</p>
-        <div class="mb-8 mx-6 flex-row text-center" style="display: flex;">
+        <div class="mb-8 mx-6 text-center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))">
           <img src="@/assets/teck_logo_RGB_REVERSE.png" style="max-height:200px;max-width:350px" class="mx-auto w-full"/>
           <img src="@/assets/cisco-logo3.png" style="max-height:200px; max-width:350px" class="mx-auto w-full"/>
         </div>
