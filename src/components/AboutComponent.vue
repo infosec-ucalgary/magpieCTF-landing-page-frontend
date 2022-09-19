@@ -1,15 +1,15 @@
 <template>
   <section id="about">
     <div class="mx-auto w-2/3">
-      <p class="text-5xl text-center mt-5 mb-3 neon-light">About</p>
+      <!-- <p class="text-5xl text-center mt-5 mb-3 neon-light">About</p> -->
       <div>
-        <div class="mb-5">
+        <!-- <div class="mb-5">
           <p class="text-3xl neon-light text-left mb-4">What is it?</p>
           <p class="text-xl text-white mb-2">If you have no idea what a CTF is, <a class="blue-link" href="https://www.youtube.com/watch?v=8ev9ZX9J45A" target="_blank"><u>this video</u></a> should help.</p>
           <p class="text-xl text-white mb-2">magpieCTF is a jeopardy-style, team-based, online CTF taking place over two days with thousands of dollars in cash prizes. This is a beginner to intermediate level CTF, so if you're brand new to CTFs/cybersecurity/hacking this is your chance to get started!</p>
           <p class="text-xl text-white">Our second annual CTF will be HEIST themed.</p>
-        </div>
-        <br />
+        </div> -->
+        <!-- <br /> -->
         <!--<div class="mb-5">
           <p class="text-3xl neon-light text-left mb-4">When is it?</p>
           <p class="text-xl text-white">It’ll be taking place over the course of 48 hours, starting <strong>February 25th at 4pm MST and ending February 27th at 4pm MST.</strong></p>
@@ -18,7 +18,7 @@
           <p class="text-3xl neon-light text-left mb-4">What does it cost?</p>
           <p class="text-xl text-white">There is no entry fee, it is totally free to enter!</p>
         </div>-->
-        <div class="mb-5">
+        <!-- <div class="mb-5">
         <p class="text-3xl neon-light text-left mb-4">When does registration open?</p>
         <ul class="text-xl text-white text-left">
          <li>InfoSec UCalgary Premium Members: <strong>November 15, 2021</strong></li>
@@ -55,7 +55,7 @@
           <img src="@/assets/teck_logo_RGB_REVERSE.png" style="max-height:200px;max-width:350px" class="mx-auto w-full"/>
           <img src="@/assets/cisco-logo3.png" style="max-height:200px; max-width:350px" class="mx-auto w-full"/>
         </div>
-      </div>
+      </div> -->
         <!--
         <div class="mb-5">
           <p class="text-3xl neon-red text-left mb-4">What are the prizes?</p>
