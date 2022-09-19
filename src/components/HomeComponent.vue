@@ -1,28 +1,36 @@
 <template>
   <section id="home-outer">
     <header class="text-center pb-12">
-      <video class="mx-auto w-2/3" autoplay loop muted>
-        <source src="@/assets/2022-logo-v3.webm" type="video/webm">
+
+      <!-- <video class="mx-auto w-2/3" autoplay loop muted> -->
+        <!-- <source src="@/assets/2022-logo-v3.webm" type="video/webm"> -->
         <!-- <source src="@/assets/2022-logo-safari.mov" type="video/mp4"> -->
         <!-- <source src="@/assets/ctf-logo-v3.webm" type="video/webm"> -->
         <!-- <source src="@/assets/ctf-logo-v3.mp4" type="video/mp4"> -->
-      </video>
+      <!-- </video> -->
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p class="font-semibold text-center text-5xl sm:text-6xl mb-16">
+            <span class="neon-grey-2">MAGPIECTF 2023</span>
+          </p>
     </header>
     <div class="home">
       <div class="flex flex-col">
         <section class="w-full">
           <TimerComponent />
-          <p class="font-semibold text-center text-3xl sm:text-5xl my-16">
-            <span class="neon-grey-2">25/02/2022 4PM MST</span>
+          <p class="font-semibold text-center text-xl sm:text-3xl my-16">
+            <span class="neon-grey-2">24/02/2023 4PM MST</span>
             <span class="neon-grey-2"> - </span>
-            <span class="neon-grey-2">27/02/2022 4PM MST</span>
+            <span class="neon-grey-2">26/02/2023 4PM MST</span>
           </p>
         </section>
-        <!-- <section class="w-full">
-          <p class="font-semibold text-center text-3xl sm:text-6xl mb-16">
-            <span class="neon-grey-2">DETAILS COMING SOON</span>
+        <section class="w-full">
+          <p class="font-semibold text-center text-xl sm:text-4xl mb-16">
+            <span class="neon-grey-2">DETAILS COMING SOON!!</span>
           </p>
-        </section> -->
+        </section>
         <!-- REGISTRATION + CTFD LINKS
         <a href="https://2021.magpiectf.ca" class="w-auto p-4 mx-auto border-4 border-white rounded-lg neon-border-blue mb-20 hover:bg-gray-800">
           <p class="font-display text-5xl text-white text-center font-bold">Go to CTFd</p>
