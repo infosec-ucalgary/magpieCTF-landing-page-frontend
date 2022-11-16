@@ -46,7 +46,7 @@
       <br />
       <div class="mb-5">
           <p class="text-5xl neon-light-2 text-left mb-4">What if I still have questions?</p>
-          <p class="text-2xl text-white">The best place to ask is the <a class="blue-link" href="https://discord.gg/gudhU4cjyM" target="_blank"><u>magpieCTF Discord server</u></a><a href="https://discord.gg/gudhU4cjyM"><img src="@/assets/discordsmall.png" style="width: 3%; display: inline" /></a>. You can private message us there, or <a class="blue-link" href="mailto:infosec.ucalgary@gmail.com" target="_blank"><u>email us</u></a>.</p>
+          <p class="text-2xl text-white">The best place to ask is the <a class="blue-link" href="https://discord.gg/gudhU4cjyM" target="_blank"><u>magpieCTF Discord server</u></a> <a href="https://discord.gg/gudhU4cjyM"><img src="@/assets/discordsmall.png" style="width: 3%; display: inline" /></a>. You can private message us there, or <a class="blue-link" href="mailto:infosec.ucalgary@gmail.com" target="_blank"><u>email us</u></a>.</p>
       </div>
       <!-- <div class="mx-auto my-16 pb-6 pt-2">
         <p class="text-center font-display text-3xl sm:text-5xl text-white mb-8">Sponsored By</p>
