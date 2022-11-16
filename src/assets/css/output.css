@@ -684,6 +684,12 @@ video {
   text-shadow: 0 0 1.25px #0b5cbf, 0 0 2.5px #0b5cbf, 0 0 3.75px #36454F, 0 0 5px #36454F, 0 0 6.25px #36454F, 0 0 7.5px #36454F;
 }
 
+.neon-light-2 {
+  color: #008ce6;
+  text-align: center;
+  text-shadow: 0 0 1.25px #0b5cbf, 0 0 2.5px #0b5cbf, 0 0 3.75px #1f262a, 0 0 5px #1f262a, 0 0 6.25px #1f262a, 0 0 7.5px #1f262a;
+}
+
 .neon-red-2 {
   color: #d6101a;
   text-align: center;
@@ -695,7 +701,7 @@ video {
 }
 
 .pink-link{
-  color: #bc1bcc;
+  color: #f7a9ff;
 }
 
 .neon-gold {
