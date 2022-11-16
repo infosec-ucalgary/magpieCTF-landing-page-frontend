@@ -1,7 +1,6 @@
 <template class="bg-black">
-  <!-- <div class="_position-relative _width-100" id="outer-container"> -->
-  <!-- <div class="relative w-full bg-blueprint-color bg-fixed bg-cover" :style="{backgroundImage:`url(${bgImage})`}" id="outer-container"> -->
-  <div class="relative w-full bg-black bg-fixed bg-cover" id="outer-container">
+  <div class="relative w-full bg-black bg-fixed bg-cover" :style="{backgroundImage:`url(${bgImage})`}" id="outer-container">
+  <!-- <div class="relative w-full bg-black bg-fixed bg-cover" id="outer-container"> -->
     <!-- PAGE RENDER -->
     <router-view />
 
@@ -42,7 +41,7 @@ export default {
   data () {
     return {
       visible: true,
-      bgImage: require('./assets/grid-blueprints-flashlight.jpg')
+      bgImage: require('./assets/2023-background-v3.jpg')
     }
   }
 }
