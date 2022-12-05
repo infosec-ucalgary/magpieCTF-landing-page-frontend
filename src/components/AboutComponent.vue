@@ -36,7 +36,7 @@
        </ul>
        <p class="text-xl text-white text-left">There are also subscriptions to services and swag in the mix! You must sign up by <strong>February 11, 2021</strong> and have your Shipping Address in your account in order to receive swag.</p> -->
        <p class="text-2xl text-white text-left">Prizes will be given out to the top 5 teams. We will also be giving out swag to players joining us in person this year!</p>
-       <p class="text-2x1 text-white text-left">The nature of the prizes will be revealed soon! </p>
+       <p class="text-2xl text-white text-left">The nature of the prizes will be revealed soon! </p>
        <p class="text-2xl text-white text-left">Note: Only teams consisting of all students may be eligible for prizes.</p>
       </div>
       <br />
