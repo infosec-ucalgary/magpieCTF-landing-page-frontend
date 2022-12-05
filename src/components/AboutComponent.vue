@@ -6,7 +6,7 @@
         <div class="mb-5">
           <p class="text-5xl neon-light-2 text-left mb-4">What is it?</p>
           <p class="text-2xl text-white mb-2">magpieCTF is a jeopardy-style, team-based, online CTF taking place over two days with thousands of dollars in cash prizes. This is a beginner to intermediate level CTF, so if you're brand new to CTFs/cybersecurity/hacking this is your chance to get started!</p>
-          <p class="text-2xl text-white">Our third annual CTF will be <strong>SPACE</strong> themed.</p>
+          <p class="text-2xl text-white">Our third annual CTF will be a hybrid <strong>SPACE</strong> themed CTF where you will be responsible for stopping OmniFlag Corporation.</p>
         </div>
         <br />
         <div class="mb-5">
@@ -34,9 +34,10 @@
          <li class="neon-grey-2 text-left text-0xl">2nd Place Team: <strong>$512</strong></li>
          <li class="neon-brown text-left text-xl">3rd Place Team: <strong>$256</strong></li>
        </ul>
-       <p class="text-xl text-white text-left">There are also subscriptions to services and swag in the mix! You must sign up by <strong>February 11, 2021</strong> and have your Shipping Address in your account in order to receive swag.</p>
-       <p class="text-xl text-white text-left">Note: Only teams consisting of all students may be eligible for prizes.</p> -->
-       <p class="text-2xl text-white text-left">Information about prizes will be available soon!</p>
+       <p class="text-xl text-white text-left">There are also subscriptions to services and swag in the mix! You must sign up by <strong>February 11, 2021</strong> and have your Shipping Address in your account in order to receive swag.</p> -->
+       <p class="text-2xl text-white text-left">Prizes will be given out to the top 5 teams. We will also be giving out swag to players joining us in person this year!</p>
+       <p class="text-2xl text-white text-left">The nature of the prizes will be revealed soon! </p>
+       <p class="text-2xl text-white text-left">Note: Only teams consisting of all students may be eligible for prizes.</p>
       </div>
       <br />
       <div class="mb-5">
