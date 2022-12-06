@@ -21,7 +21,7 @@
         <p class="text-5xl neon-light-2 text-left mb-4">When does registration open?</p>
         <ul class="text-2xl text-white text-left">
          <li>Canadian High School and Post-Secondary Students: <strong>December 5, 2022</strong></li>
-         <li>Everyone: <strong>January 10, 2023</strong></li>
+         <li>Everyone: <strong>January 9, 2023</strong></li>
        </ul>
        <p class="text-2xl text-white text-left">Note: If a member of your team is eligible to register, then even if the rest of your team is not, your entire team may also register at that time.</p>
        <!-- <p class="text-xl text-white text-left">To register, head on over to our <a class="blue-link" href=""><u>CTFd Page</u></a>.</p> -->
@@ -49,12 +49,12 @@
           <p class="text-5xl neon-light-2 text-left mb-4">What if I still have questions?</p>
           <p class="text-2xl text-white">The best place to ask is the <a class="blue-link" href="https://discord.gg/gudhU4cjyM" target="_blank"><u>magpieCTF Discord server</u></a> <a href="https://discord.gg/gudhU4cjyM"><img src="@/assets/discordsmall.png" style="width: 3%; display: inline" /></a>. You can private message us there, or <a class="blue-link" href="mailto:infosec.ucalgary@gmail.com" target="_blank"><u>email us</u></a>.</p>
       </div>
-      <!-- <div class="mx-auto my-16 pb-6 pt-2">
+      <div class="mx-auto my-16 pb-6 pt-2">
         <p class="text-center font-display text-3xl sm:text-5xl text-white mb-8">Sponsored By</p>
         <div class="mb-6 mx-4 text-center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))">
           <img src="@/assets/teck_logo_RGB_REVERSE.png" style="max-height:200px;max-width:350px" class="mx-auto w-full"/>
         </div>
-      </div> -->
+      </div>
       </div>
     </div>
   </section>
