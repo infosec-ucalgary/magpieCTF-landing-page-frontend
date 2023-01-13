@@ -24,7 +24,7 @@
          <li>Everyone: <strong>January 9, 2023</strong></li>
        </ul>
        <p class="text-2xl text-white text-left">Note: If a member of your team is eligible to register, then even if the rest of your team is not, your entire team may also register at that time.</p>
-       <!-- <p class="text-xl text-white text-left">To register, head on over to our <a class="blue-link" href=""><u>CTFd Page</u></a>.</p> -->
+       <p class="text-2xl text-white text-left">To register, head on over to our <a class="blue-link" href="https://2023.magpiectf.ca/"><u>CTFd Page</u></a>.</p>
       </div>
       <br />
       <div class="mb-5">
