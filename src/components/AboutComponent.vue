@@ -12,6 +12,7 @@
         <div class="mb-5">
           <p class="text-5xl neon-light-2 text-left mb-4">When is it?</p>
           <p class="text-2xl text-white">It’ll be taking place over the course of 48 hours, starting <strong>February 24th at 4pm MST and ending February 26th at 4pm MST.</strong></p>
+          <p class="text-2xl text-white">Join us in-person at University of Calgary, room <b>ENG224</b> for the opening and closing ceremony.</p>
         </div>
         <div class="mb-5">
           <p class="text-5xl neon-light-2 text-left mb-4">What does it cost?</p>
@@ -29,14 +30,15 @@
       <br />
       <div class="mb-5">
        <p class="text-5xl neon-light-2 text-left mb-4">What are the prizes?</p>
-       <!-- <ul class="text-xl text-white text-left">
-         <li class="neon-gold text-left text-2xl">1st Place Team: <strong>$1024</strong></li>
-         <li class="neon-grey-2 text-left text-0xl">2nd Place Team: <strong>$512</strong></li>
-         <li class="neon-brown text-left text-xl">3rd Place Team: <strong>$256</strong></li>
+        <ul class="text-xl text-white text-left">
+         <li class="blue-link text-left text-4xl">1st Place Team: <strong>$300</strong></li>
+         <li class="neon-grey-2 text-left text-3xl">2nd Place Team: <strong>$200</strong></li>
+         <li class="pink-link text-left text-2xl">3rd Place Team: <strong>$100</strong></li>
        </ul>
-       <p class="text-xl text-white text-left">There are also subscriptions to services and swag in the mix! You must sign up by <strong>February 11, 2021</strong> and have your Shipping Address in your account in order to receive swag.</p> -->
-       <p class="text-2xl text-white text-left">Prizes will be given out to the top 5 teams. We will also be giving out swag to players joining us in person this year!</p>
-       <p class="text-2xl text-white text-left">The nature of the prizes will be revealed soon! </p>
+       <br>
+       <!--<p class="text-xl text-white text-left">There are also subscriptions to services and swag in the mix! You must sign up by <strong>February 11, 2021</strong> and have your Shipping Address in your account in order to receive swag.</p> -->
+       <p class="text-2xl text-white text-left">We will also be giving out 3 write-up prize each valued at <b>$50</b>. Write-up submission guidelines will be released at a later date.</p>
+       <p class="text-2xl text-white text-left">Swag will be given to players joining us in person this year!</p>
        <p class="text-2xl text-white text-left">Note: Only teams consisting of all students may be eligible for prizes.</p>
       </div>
       <br />
