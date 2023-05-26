@@ -2,7 +2,7 @@
   <section id="about">
     <div class="mx-auto w-2/3">
       <p class="text-6xl text-center mt-5 mb-3 neon-light-2">About</p>
-      <div>
+     <!-- <div>
         <div class="mb-5">
           <p class="text-5xl neon-light-2 text-left mb-4">What is it?</p>
           <p class="text-2xl text-white mb-2">magpieCTF is a jeopardy-style, team-based, online CTF taking place over two days with thousands of dollars in cash prizes. This is a beginner to intermediate level CTF, so if you're brand new to CTFs/cybersecurity/hacking this is your chance to get started!</p>
@@ -34,10 +34,10 @@
          <li class="blue-link text-left text-4xl">1st Place Team: <strong>$300</strong></li>
          <li class="neon-grey-2 text-left text-3xl">2nd Place Team: <strong>$200</strong></li>
          <li class="pink-link text-left text-2xl">3rd Place Team: <strong>$100</strong></li>
-       </ul>
+	</ul>
        <br>
        <!--<p class="text-xl text-white text-left">There are also subscriptions to services and swag in the mix! You must sign up by <strong>February 11, 2021</strong> and have your Shipping Address in your account in order to receive swag.</p> -->
-       <p class="text-2xl text-white text-left">We will also be giving out 3 write-up prize each valued at <b>$50</b>. Write-up submission guidelines will be released at a later date.</p>
+     <!--  <p class="text-2xl text-white text-left">We will also be giving out 3 write-up prize each valued at <b>$50</b>. Write-up submission guidelines will be released at a later date.</p>
        <p class="text-2xl text-white text-left">Swag will be given to players joining us in person this year!</p>
        <p class="text-2xl text-white text-left">Note: Only teams consisting of all students may be eligible for prizes.</p>
       </div>
@@ -57,7 +57,7 @@
           <img src="@/assets/teck_logo_RGB_REVERSE.png" style="max-height:200px;max-width:350px" class="mx-auto w-full"/>
         </div>
       </div>
-      </div>
+     </div>-->
     </div>
   </section>
 </template>
