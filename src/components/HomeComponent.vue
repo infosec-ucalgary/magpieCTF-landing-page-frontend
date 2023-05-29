@@ -22,7 +22,7 @@
     </div>-->
            <section class="w-full">
                   <p class="font-semibold text-center text-xl sm:text-4xl mb-16">
-                      <span class="neon-grey-2">MAGPIE 2024 IN PROGRESS!</span>
+                      <span class="neon-grey-2">MAGPIE 2024 DEVELOPMENT IN PROGRESS! 🔧</span>
                   </p>
            </section>
     </div>
