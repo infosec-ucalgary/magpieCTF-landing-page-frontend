@@ -1,6 +1,6 @@
 <template class="bg-black">
-  <div class="relative w-full bg-black bg-fixed bg-cover" :style="{backgroundImage:`url(${bgImage})`}" id="outer-container">
-  <!-- <div class="relative w-full bg-black bg-fixed bg-cover" id="outer-container"> -->
+  <!-- <div class="relative w-full bg-black bg-fixed bg-cover" :style="{backgroundImage:`url(${bgImage})`}" id="outer-container">-->
+  <div class="relative w-full bg-black bg-fixed bg-cover" id="outer-container">
     <!-- PAGE RENDER -->
     <router-view />
 
@@ -29,7 +29,7 @@
  }
 
 </style>
-
+<!--
 <script>
 import FooterComponent from './components/FooterComponent.vue'
 
@@ -46,3 +46,4 @@ export default {
   }
 }
 </script>
+-->
