@@ -1,6 +1,7 @@
 <template>
   <VueCountdown :time="new Date('Feb 24, 2024 16:00:00 GMT-0700').getTime() - new Date().getTime()">
       <template v-slot="props">
+        <div class="w-full h-screen bg-green flex items-center justify-center">
         <div class="font-semibold text-center text-5xl">
           <div class="inline-block mx-10 neon-grey-2">
             <p>{{ props.days }}</p>
@@ -18,6 +19,7 @@
             <p>{{ props.seconds }}</p>
             <p class="text-4xl">seconds</p>
           </div>
+        </div>
         </div>
       </template>
   </VueCountdown>
