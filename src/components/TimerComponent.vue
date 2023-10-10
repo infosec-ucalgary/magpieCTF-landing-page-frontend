@@ -1,6 +1,5 @@
 <template>
-<!--
-  <VueCountdown :time="new Date('Feb 24, 2023 16:00:00 GMT-0700').getTime() - new Date().getTime()">
+  <VueCountdown :time="new Date('Feb 24, 2024 16:00:00 GMT-0700').getTime() - new Date().getTime()">
       <template v-slot="props">
         <div class="font-semibold text-center text-5xl">
           <div class="inline-block mx-10 neon-grey-2">
@@ -21,9 +20,9 @@
           </div>
         </div>
       </template>
-  </VueCountdown>-->
+  </VueCountdown>
 </template>
-<!--
+
 <script>
 import VueCountdown from '@chenfengyuan/vue-countdown'
 
@@ -34,4 +33,3 @@ export default {
   }
 }
 </script>
--->

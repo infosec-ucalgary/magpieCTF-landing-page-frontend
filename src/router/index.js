@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import NotFound from '../views/NotFound.vue'
+import TimerComponent from '../components/TimerComponent'
 
 Vue.use(VueRouter)
 
@@ -15,6 +16,11 @@ const routes = [
     path: '*',
     name: 'notfound',
     component: NotFound
+  },
+  {
+    path: '/countdown',
+    name: 'timer',
+    component: TimerComponent
   }
 ]
 
