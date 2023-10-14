@@ -1,27 +1,32 @@
 <template>
   <VueCountdown :time="new Date('Feb 24, 2024 16:00:00 GMT-0700').getTime() - new Date().getTime()">
-      <template v-slot="props">
-        <div class="w-full h-screen bg-green flex items-center justify-center">
-        <div class="font-semibold text-center text-5xl">
-          <div class="inline-block mx-10 neon-grey-2">
-            <p>{{ props.days }}</p>
-            <p class="text-4xl">days</p>
+    <template v-slot="props">
+      <div class="h-screen flex items-end justify-end">
+        <div class="font-semibold text-center text-5xl mr-32 mb-32 inline-block">
+          <div class="mx-10 neon-grey-2">
+            <p>MagpieCTF 2024</p>
           </div>
-          <div class="inline-block mx-10 neon-grey-2">
-            <p>{{ props.hours }}</p>
-            <p class="text-4xl">hours</p>
-          </div>
-          <div class="inline-block mx-10 neon-grey-2">
-            <p>{{ props.minutes }}</p>
-            <p class="text-4xl">minutes</p>
-          </div>
-          <div class="inline-block mx-10 neon-grey-2">
-            <p>{{ props.seconds }}</p>
-            <p class="text-4xl">seconds</p>
+          <div>
+            <div class="inline-block mx-10 neon-grey-2">
+              <p>{{ props.days }}</p>
+              <p class="text-4xl">days</p>
+            </div>
+            <div class="inline-block mx-10 neon-grey-2">
+              <p>{{ props.hours }}</p>
+              <p class="text-4xl">hours</p>
+            </div>
+            <div class="inline-block mx-10 neon-grey-2">
+              <p>{{ props.minutes }}</p>
+              <p class="text-4xl">minutes</p>
+            </div>
+            <div class="inline-block mx-10 neon-grey-2">
+              <p>{{ props.seconds }}</p>
+              <p class="text-4xl">seconds</p>
+            </div>
           </div>
         </div>
-        </div>
-      </template>
+      </div>
+    </template>
   </VueCountdown>
 </template>
 
