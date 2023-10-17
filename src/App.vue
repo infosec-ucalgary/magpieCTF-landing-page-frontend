@@ -42,7 +42,7 @@ export default {
   data () {
     return {
       visible: true,
-      bgImage: require('./assets/assets24/blurryBG.jpg')
+      bgImage: require('./assets/assets24/nonBlurryBG.jpg')
     }
   }
 }
