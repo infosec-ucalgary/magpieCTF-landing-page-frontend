@@ -1,14 +1,15 @@
 <template>
-  <div class="relative w-full bg-black bg-fixed bg-cover" :style="{backgroundImage:`url(${bgImage})`}" id="outer-container">
-  <div id="outer-container">
-    <!-- PAGE RENDER -->
-    <router-view />
+  <div class="relative w-full bg-black bg-cover bg-right sm:bg-left-bottom"
+    :style="{ backgroundImage: `url(${bgImage})` }" id="outer-container">
+    <div id="outer-container">
+      <!-- PAGE RENDER -->
+      <router-view />
 
-    <!-- FOOTER -->
-    <FooterComponent />
+      <!-- FOOTER -->
+      <FooterComponent />
 
+    </div>
   </div>
-</div>
 </template>
 
 <style>
@@ -41,7 +42,7 @@ export default {
   data () {
     return {
       visible: true,
-      bgImage: require('./assets/assets24/nonBlurryBG.jpg')
+      bgImage: require('./assets/assets24/blurryBG.jpg')
     }
   }
 }
