@@ -8,6 +8,7 @@ I've decided to use VueJS to build this web app. On top of Vue, I chose [Tailwin
 - - -
 ## Project setup
 ```
+Ensure that you have node.js version 16, with newer versions it won't compile.
 npm install
 ```
 
