@@ -12,8 +12,8 @@
           <div class="absolute flex-col flex opacity-0 hover:opacity-100 duration-300 top-0 left-0 px-5 rounded-md h-full justify-center items-center text-center bg-black text-white bg-opacity-75 p-2"><strong>Aberrant Watchdogs (OSINT)</strong>A group that monitor and act on aberrant reports or occurrences to prevent them from causing chaos.</div>
           <img class="rounded-lg h-auto" src="../assets/assets24/AberrantWatchdogs.webp">
         </div>
-        <div class="col-span-3">
-
+        <div class="col-span-3 bg-black rounded-lg text-white text-center">
+          <p class="m-12">The year is 2045. Breakthroughs in artificial intelligence and quantum computing have allowed for android and AI integration into modern society. Androids have been used to serve humans and complete the mundane tasks that nobody wants to do, allowing humanity to focus on the more fulfilling tasks of life. However, the complexity and true potential of the technology has surpassed our understanding of its mechanics, and the androids sometimes behave in… unexpected manners. These “aberrants” have a variety of potential unorthodox behaviors, ranging from difficulty understanding and completing tasks to outright violence and aggression. These days, are are the “Big 7” names that practically everybody recognizes in AI:</p>
         </div>
         <div class="relative flex">
           <div class="absolute flex-col flex opacity-0 hover:opacity-100 duration-300 top-0 left-0 px-5 rounded-md h-full justify-center items-center text-center bg-black text-white bg-opacity-75 p-2"><strong>BinCortex (Binary)</strong> A development group responsible for most software and APIs used by modern androids you might see for sale or on the street.</div>
@@ -24,7 +24,7 @@
           <img class="rounded-lg h-auto" src="../assets/assets24/QuantumLocks.webp">
         </div>
         <div class="relative flex">
-          <div class="absolute flex-col flex opacity-0 hover:opacity-100 duration-300 top-0 left-0 px-5 rounded-md h-full justify-center items-center text-center bg-black text-white bg-opacity-75 p-2"><strong>REAssembly (RevEng)</strong>A maintenance group who provide services that focus primarily on revamping and patching outdated and deprecated androids and AIs.</div>
+          <div class="absolute flex-col flex opacity-0 hover:opacity-100 duration-300 top-0 left-0 px-5 rounded-md h-full justify-center items-center text-center bg-black text-white bg-opacity-75 p-2"><strong>MagpAI (Web)</strong>A group focused on creating web assistants and can be found built into every mainstream internet browser.</div>
           <img class="rounded-lg h-auto" src="../assets/assets24/REAssembly.webp">
         </div>
         <div class="relative flex">
