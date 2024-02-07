@@ -6,6 +6,32 @@
         <span class="neon-grey-2">MagpieCTF 2024</span>
       </p>
     </section>
+    <VueCountdown :time="new Date('Feb 23, 2024 16:00:00 GMT-0700').getTime() - new Date().getTime()">
+    <template v-slot="props">
+      <div class="flex justify-center items-center">
+        <div class="font-semibold text-center text-5xl inline-block">
+          <div>
+            <div class="inline-block mx-10 neon-grey-2">
+              <p>{{ props.days }}</p>
+              <p class="text-4xl">days</p>
+            </div>
+            <div class="inline-block mx-10 neon-grey-2">
+              <p>{{ props.hours }}</p>
+              <p class="text-4xl">hours</p>
+            </div>
+            <div class="inline-block mx-10 neon-grey-2">
+              <p>{{ props.minutes }}</p>
+              <p class="text-4xl">minutes</p>
+            </div>
+            <div class="inline-block mx-10 neon-grey-2">
+              <p>{{ props.seconds }}</p>
+              <p class="text-4xl">seconds</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </template>
+  </VueCountdown>
     <div class="w-10/12 mx-auto">
       <div class="grid gap-4 md:grid-cols-5 grid-cols-1">
         <div class="relative">
@@ -25,7 +51,7 @@
         </div>
         <div class="relative flex">
           <div class="absolute flex-col flex opacity-0 hover:opacity-100 duration-300 top-0 left-0 px-5 rounded-md h-full justify-center items-center text-center bg-black text-white bg-opacity-75 p-2"><strong>MagpAI (Web)</strong>A group focused on creating web assistants and can be found built into every mainstream internet browser.</div>
-          <img class="rounded-lg h-auto" src="../assets/assets24/REAssembly.webp">
+          <img class="rounded-lg h-auto" src="../assets/assets24/magpai.webp">
         </div>
         <div class="relative flex">
           <div class="absolute flex-col flex opacity-0 hover:opacity-100 duration-300 top-0 left-0 px-5 rounded-md h-full justify-center items-center text-center bg-black text-white bg-opacity-75 p-2"><strong>REAssembly (RevEng)</strong>A maintenance group who provide services that focus primarily on revamping and patching outdated and deprecated androids and AIs.</div>
@@ -50,8 +76,13 @@
 </template>
 
 <script>
+import VueCountdown from '@chenfengyuan/vue-countdown'
+
 export default {
   name: 'HomeComponent',
+  components: {
+    VueCountdown
+  },
   data () {
     return {
       visible: true,
