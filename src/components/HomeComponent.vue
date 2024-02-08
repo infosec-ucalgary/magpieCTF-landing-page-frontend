@@ -1,19 +1,13 @@
 <template>
-  <div class="w-full h-full bg-cover bg-left-top" :style="{ backgroundImage: `url(${bgImage})` }"
+  <div class="w-full h-full bg-cover neon-grey-2" :style="{ backgroundImage: `url(${bgImage})` }"
     id="outer-container">
-    <section class="w-full flex justify-center">
-      <div class="bg-gray-800 my-8 px-8 p-2 rounded-lg">
-        <p class="font-semibold text-center text-xl sm:text-6xl pb-0 mb-0 2xl:pt-4">
-          <span class="neon-grey-2">MagpieCTF 2024</span>
-        </p>
-        <p class="font-semibold text-center text-xl 2xl:pb-6">
-          <span class="text-gray-900 px-3 bg-white rounded-md">University of Calgary Information Security Club</span>
-        </p>
-    </div>
+    <section class="flex justify-center">
+      <img class="w-2/3" src="../assets/assets24/magpAI_logo.png">
     </section>
+    <section class="mt-4 mb-8">
     <VueCountdown :time="new Date('Feb 23, 2024 16:00:00 GMT-0700').getTime() - new Date().getTime()">
     <template v-slot="props">
-      <div class="flex justify-center items-center">
+      <div class="flex justify-center items-center mb-16">
         <div class="font-semibold text-center text-5xl inline-block">
           <div>
             <div class="inline-block mx-10 neon-grey-2">
@@ -37,6 +31,7 @@
       </div>
     </template>
   </VueCountdown>
+</section>
     <div class="w-10/12 mx-auto">
       <div class="grid gap-4 md:grid-cols-5 grid-cols-1">
         <div class="relative">
@@ -56,7 +51,7 @@
         </div>
         <div class="relative flex">
           <div class="absolute flex-col flex opacity-0 hover:opacity-100 duration-300 top-0 left-0 px-5 rounded-lg h-full justify-center items-center text-center bg-black text-white text-sm 2xl:text-md bg-opacity-75 p-2"><strong>MagpAI (Web)</strong>A group focused on creating web assistants and can be found built into every mainstream internet browser.</div>
-          <img class="rounded-lg h-auto" src="../assets/assets24/REAssembly.webp">
+          <img class="rounded-lg h-auto" src="../assets/assets24/magpai.webp">
         </div>
         <div class="relative flex">
           <div class="absolute flex-col flex opacity-0 hover:opacity-100 duration-300 top-0 left-0 px-5 rounded-lg h-full justify-center items-center text-center bg-black text-white text-sm 2xl:text-md bg-opacity-75 p-2"><strong>REAssembly (RevEng)</strong>A maintenance group who provide services that focus primarily on revamping and patching outdated and deprecated androids and AIs.</div>
@@ -77,16 +72,19 @@
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="neon-grey-2 underline" target="_blank">MagpAI CTF 2024</a>
       </p>
     </section>
+    <FooterComponent />
   </div>
 </template>
 
 <script>
 import VueCountdown from '@chenfengyuan/vue-countdown'
+import FooterComponent from '../components/FooterComponent.vue'
 
 export default {
   name: 'HomeComponent',
   components: {
-    VueCountdown
+    VueCountdown,
+    FooterComponent
   },
   data () {
     return {
