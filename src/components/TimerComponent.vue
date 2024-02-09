@@ -24,6 +24,9 @@
               <p class="text-4xl">seconds</p>
             </div>
           </div>
+          <div class="neon-grey-2">
+            <p class="text-3xl">Feburary 23 - Feburary 25</p>
+          </div>
         </div>
       </div>
     </template>
