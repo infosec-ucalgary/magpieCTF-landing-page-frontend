@@ -32,7 +32,7 @@
         <p class="text-2xl text-white">The best place to ask is in the <u>magpieCTF Discord server</u> by clicking the discord logo below. You can
           message us there, or <a class="blue-link" href="mailto:infosec.ucalgary@gmail.com" target="_blank"><u>email
               us</u></a>.</p>
-        <a href="https://discord.gg/gudhU4cjyM" target="blank_"><img class="bg-black w-1/2 mx-auto rounded-lg my-8"
+        <a href="https://discord.gg/gudhU4cjyM" target="blank_"><img class="bg-black w-1/2 lg:w-1/3 mx-auto rounded-lg my-8"
             href="https://discord.gg/gudhU4cjyM" src="../assets/Discord-Logo+Wordmark-Color.png" /></a>
       </div>
       <div class="mx-auto my-16 pb-6 pt-2">

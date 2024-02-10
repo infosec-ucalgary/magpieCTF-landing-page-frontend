@@ -1,6 +1,6 @@
 <template>
   <div class="h-full bg-cover bg-top neon-grey-2" :style="{ backgroundImage: `url(${bgImage})` }" id="outer-container">
-    <div class="md:h-screen mb-8">
+    <div class="lg:h-screen mb-8">
       <section class="flex justify-center">
         <img class="sm:w-2/3" src="../assets/assets24/magpAI_logo.png">
       </section>
@@ -48,19 +48,19 @@
           </div>
           <img class="rounded-lg h-auto" src="../assets/assets24/magpai.webp">
         </div>
-        <div class="relative col-span-3 row-span-2 text-white text-center">
-          <p class="p-8 text-sm 2xl:text-lg rounded-lg bg-black m-auto 2xl:m-12"> The
-            year is 2045. Breakthroughs in AI and quantum computing have allowed for androids and AI integration into
-            modern society. Androids have been used to serve humans and complete the mundane tasks that nobody wants to
-            do, allowing humanity to focus on the more fulfilling tasks of life. However, the complexity and true
-            potential of the technology has surpassed our understanding of its mechanics, and the androids sometimes
-            behave in… unexpected manners. These “aberrants” have a variety of potential unorthodox behaviors, ranging
-            from difficulty understanding and completing tasks to outright violence and aggression. <br><br>These days, most of the business in the
-            modern world is dominated by the Big 7. Each of these groups allow anyone to complete tasks for them in return
-            for rewards in the form of “bounties.” A web service known colloquially as <strong>The Board</strong> has
-            bounty postings from various users and organizations (anonymous and self-identified) where those interested in
-            making some side-cash can take up these challenges and turn them in. You are one such user, and with The Game
-            coming up, your goal is to complete as many such bounties and reach the top of the leaderboard.</p>
+        <div class="relative col-span-3 row-span-2 text-white text-center flex justify-center items-center">
+          <p class="p-8 text-sm xl:text-base rounded-lg bg-black">The year is 2045. Breakthroughs in AI and quantum
+            computing have allowed for androids and AI integration into modern society. Androids have been used to serve
+            humans and complete the mundane tasks that nobody wants to do, allowing humanity to focus on the more
+            fulfilling tasks of life. However, the complexity and true potential of the technology have surpassed our
+            understanding of its mechanics, and the androids sometimes behave in… unexpected manners. These “aberrants”
+            have a variety of potential unorthodox behaviors, ranging from difficulty understanding and completing tasks
+            to outright violence and aggression. <br><br>These days, most of the business in the modern world is dominated
+            by the Big 7. Each of these groups allows anyone to complete tasks for them in return for rewards in the form
+            of “bounties.” A web service known colloquially as <strong>The Board</strong> has bounty postings from various
+            users and organizations (anonymous and self-identified) where those interested in making some side-cash can
+            take up these challenges and turn them in. You are one such user, and with The Game coming up, your goal is to
+            complete as many such bounties and reach the top of the leaderboard.</p>
         </div>
         <div class="relative flex">
           <div
@@ -90,21 +90,23 @@
     </div>
     <div class="xl:hidden w-5/6 mx-auto">
       <p class="p-8 text-sm rounded-lg bg-black"> The
-            year is 2045. Breakthroughs in AI and quantum computing have allowed for androids and AI integration into
-            modern society. Androids have been used to serve humans and complete the mundane tasks that nobody wants to
-            do, allowing humanity to focus on the more fulfilling tasks of life. However, the complexity and true
-            potential of the technology has surpassed our understanding of its mechanics, and the androids sometimes
-            behave in… unexpected manners. These “aberrants” have a variety of potential unorthodox behaviors, ranging
-            from difficulty understanding and completing tasks to outright violence and aggression. <br><br>These days, most of the business in the
-            modern world is dominated by the Big 7. Each of these groups allow anyone to complete tasks for them in return
-            for rewards in the form of “bounties.” A web service known colloquially as <strong>The Board</strong> has
-            bounty postings from various users and organizations (anonymous and self-identified) where those interested in
-            making some side-cash can take up these challenges and turn them in. You are one such user, and with The Game
-            coming up, your goal is to complete as many such bounties and reach the top of the leaderboard.</p>
+        year is 2045. Breakthroughs in AI and quantum computing have allowed for androids and AI integration into
+        modern society. Androids have been used to serve humans and complete the mundane tasks that nobody wants to
+        do, allowing humanity to focus on the more fulfilling tasks of life. However, the complexity and true
+        potential of the technology has surpassed our understanding of its mechanics, and the androids sometimes
+        behave in… unexpected manners. These “aberrants” have a variety of potential unorthodox behaviors, ranging
+        from difficulty understanding and completing tasks to outright violence and aggression. <br><br>These days, most
+        of the business in the
+        modern world is dominated by the Big 7. Each of these groups allow anyone to complete tasks for them in return
+        for rewards in the form of “bounties.” A web service known colloquially as <strong>The Board</strong> has
+        bounty postings from various users and organizations (anonymous and self-identified) where those interested in
+        making some side-cash can take up these challenges and turn them in. You are one such user, and with The Game
+        coming up, your goal is to complete as many such bounties and reach the top of the leaderboard.</p>
     </div>
     <section>
       <p class="font-semibold text-center text-xl sm:text-6xl my-10">
-        <a href="https://2024.magpiectf.ca/" class="neon-grey-2 bg-black p-3 sm:p-6 sm:pt-2 rounded-lg underline" target="_blank">Register Here</a>
+        <a href="https://2024.magpiectf.ca/" class="neon-grey-2 bg-black p-3 sm:p-6 sm:pt-2 rounded-lg underline"
+          target="_blank">Register Here</a>
       </p>
     </section>
     <AboutComponent />
