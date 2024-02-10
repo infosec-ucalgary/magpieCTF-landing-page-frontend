@@ -89,7 +89,7 @@
       </div>
     </div>
     <div class="xl:hidden w-5/6 mx-auto">
-      <p class="p-8 text-sm rounded-lg bg-black"> The
+      <p class="p-8 text-3xl lg:text-base rounded-lg bg-black"> The
         year is 2045. Breakthroughs in AI and quantum computing have allowed for androids and AI integration into
         modern society. Androids have been used to serve humans and complete the mundane tasks that nobody wants to
         do, allowing humanity to focus on the more fulfilling tasks of life. However, the complexity and true

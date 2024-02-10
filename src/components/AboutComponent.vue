@@ -13,7 +13,7 @@
         <div class="mb-5">
           <p class="text-5xl neon-light-2 mb-4">When is it?</p>
           <p class="text-2xl text-white">It’ll be taking place over the course of 48 hours, starting <br><strong>February 23th at 4pm MST and ending February 25th at 4pm MST.</strong></p>
-          <p class="text-2xl text-white">Join us in-person at University of Calgary, room <b>ENG103</b> for the opening and closing ceremony.</p>
+          <p class="text-2xl text-white">Join us in-person at University of Calgary, room <b>ENA103</b> for the opening and closing ceremony.</p>
         </div>
       <div class="mb-5">
         <p class="text-5xl neon-light-2 mb-4">What does it cost?</p>
