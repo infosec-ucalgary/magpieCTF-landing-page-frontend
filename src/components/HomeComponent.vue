@@ -1,6 +1,6 @@
 <template>
-  <div class="h-full bg-cover bg-top   neon-grey-2" :style="{ backgroundImage: `url(${bgImage})` }" id="outer-container">
-    <div class="md:h-screen">
+  <div class="h-full bg-cover bg-top neon-grey-2" :style="{ backgroundImage: `url(${bgImage})` }" id="outer-container">
+    <div class="md:h-screen mb-8">
       <section class="flex justify-center">
         <img class="sm:w-2/3" src="../assets/assets24/magpAI_logo.png">
       </section>
@@ -88,7 +88,7 @@
         </div>
       </div>
     </div>
-    <div class="md:hidden w-5/6 mx-auto">
+    <div class="xl:hidden w-5/6 mx-auto">
       <p class="p-8 text-sm rounded-lg bg-black"> The
             year is 2045. Breakthroughs in AI and quantum computing have allowed for androids and AI integration into
             modern society. Androids have been used to serve humans and complete the mundane tasks that nobody wants to
