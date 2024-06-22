@@ -1,7 +1,9 @@
 <template>
-<div class="flex justify-center items-center h-screen font-semibold text-center text-xl sm:text-4xl h-full mb-16">
-  <p class="neon-grey-2">MAGPIECTF 2025 DEVELOPMENT IN PROGRESS! 🔧</p>
-</div>
+  <div class="h-screen">
+    <div class="flex flex-col justify-center items-center h-full font-semibold text-center text-xl sm:text-4xl mb-16">
+      <p class="neon-grey-2">MAGPIECTF 2025 DEVELOPMENT IN PROGRESS! 🔧</p>
+    </div>
+  </div>
 
   <!-- <div class="h-full bg-cover bg-top neon-grey-2" :style="{ backgroundImage: `url(${bgImage})` }" id="outer-container">
     <div class="lg:h-screen mb-8">
