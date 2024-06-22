@@ -1,15 +1,15 @@
 <template>
-  <div class="relative w-full h-screen bg-black bg-cover bg-right sm:bg-left-bottom"
-    :style="{ backgroundImage: `url(${bgImage})` }" id="outer-container">
-    <div id="outer-container">
-      <!-- PAGE RENDER -->
-      <router-view />
+  <!-- <div class="relative w-full h-screen bg-black bg-cover bg-right sm:bg-left-bottom"
+    :style="{ backgroundImage: `url(${bgImage})` }" id="outer-container"> -->
+      <div id="outer-container">
+        <!-- PAGE RENDER -->
+        <router-view />
 
-      <!-- FOOTER -->
-      <FooterComponent />
+        <!-- FOOTER -->
+        <FooterComponent />
 
-    </div>
-  </div>
+      </div>
+  <!-- </div> -->
 </template>
 
 <style>
